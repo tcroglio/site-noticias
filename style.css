@@ -1,0 +1,206 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@200;400&display=swap');
+
+* {
+    margin: 0;
+}
+
+nav {
+    padding: 15px;
+    display: flex;
+    justify-content: space-around;
+    background-color: #3c3c3c;
+    font-family: 'Merriweather', serif;
+    color: white;
+
+}
+
+.nav-itens {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    padding: 0;
+} 
+
+.nav-itens a {
+    margin: 7px;
+    text-decoration: none;
+    transition: 0.30s;
+    color: white;
+}
+
+a:hover {
+    opacity: 0.7;
+    color: goldenrod;
+}
+
+.content {
+    /* border: 1px solid green; */
+    margin: 30px;
+    color: black;
+    font-family: 'Noto Sans', sans-serif;
+    
+}
+
+.content {
+    /* border: 1px solid red; */
+    display: grid;
+    grid-template-columns: 60% 40%;
+    padding: 5px;
+    margin-top: 70px;
+    margin-left: 60px;
+}
+
+.content1 {
+    /* border: 1px solid green; */
+    margin-right: 15px;
+}
+
+.content1 h1 {
+    margin-bottom: 10px;
+}
+
+/* PARAGRAFO 1 */
+
+.p1 {
+    text-align: justify;
+    margin-bottom: 30px;
+    margin-left: 10px;
+}
+
+.p1 a {
+    text-decoration: none;
+    color: goldenrod;
+    transition: 0.30s;
+}
+
+.p1 a:hover {
+    opacity: 0.7;
+    color: black;
+}
+
+/* IMAGEM E TITULO DA IMAGEM */
+
+.content1 img {
+    margin-left: 15%;
+}
+
+.content1 h6 {
+    margin-left: 15%;
+
+}
+
+/* PARAGRAFO 2 */
+
+.p2 {
+    text-align: justify;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+}
+
+.p2 a {
+    text-decoration: none;
+    color: goldenrod;
+    transition: 0.30s;
+}
+
+.p2 a:hover {
+    opacity: 0.7;
+    color: black;
+}
+
+/* PARAGRAFO 3  */
+.p3 {
+    text-align: justify;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+}
+
+/* PARAGRAFO 4 */
+
+.p4 {
+    text-align: justify;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+}
+
+/* CONTENT 2 */
+
+.content2 {
+    margin-left: 15px;
+}
+
+
+/* (CAIXA) */
+
+.caixa {
+    border: 0.5px solid grey;
+    margin: 30px;
+    padding: 5px;
+    padding-bottom: 0px;
+}
+
+.caixa ul {
+    text-decoration: none;
+    list-style: none;
+    padding: 0px;
+}
+
+.caixa a {
+    text-decoration: none;
+    color: goldenrod;
+    transition: 0.30s;
+    margin-left: 5px;
+}
+
+.caixa a:hover {
+    opacity: 0.7;
+    color: black;
+}
+
+.caixa li {
+    border: 0.5px solid grey;
+    margin-bottom: 5px;
+}
+
+
+/* PEZINHO */
+
+.pezinho1 {
+    background-color: #8c8c8c;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    text-align: center;
+}
+
+.pezinho1 h3 {
+    font-family: 'Noto Sans', sans-serif;
+    margin-bottom: 10px;
+    color: white;
+
+}
+
+.pezinho1 ul {
+    text-decoration: none;
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.pezinho1 a {
+    color: white;
+}
+
+
+
+.pezinho2 {
+    background-color: #3c3c3c;
+    padding: 30px;    
+    font-family: 'Noto Sans', sans-serif;
+    color: white;
+}
