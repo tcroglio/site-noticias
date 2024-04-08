@@ -1,10 +1,11 @@
 <h1 align="center"> Site de Noticias 🗞 </h1>
 <h2> Sobre este Site 💻 </h2>
 <p> Site "molde" de notícias que pode ser ajustado e configurado para falar sobre qualquer assunto. </p> 
-<p> Acesse este site clicando <a href="https://www.tiagoroglio.com.br/site-noticias"> aqui. </a></p>
+<p> Acesse este site clicando <a href="https://www.tiagoroglio.com.br/site-noticias" target="_blank"> aqui. </a></p>
 
 <h2> Visualização do site </h2>
-## Requisitos de Sistema </p>
+
+
 
 - Requisito 1
 - Requisito 2
