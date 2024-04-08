@@ -1,6 +1,6 @@
-<h1 align="center"> # Site de Noticias 🗞 </h1>
+<h1 align="center"> Site de Noticias 🗞 </h1>
 
-Site "molde" de notícias  sobre qualquer assunto. 
+<p> Site "molde" de notícias  sobre qualquer assunto. </p> 
 
 <h2 align="center"> ## Sobre este Site 💻 </h2>
 
