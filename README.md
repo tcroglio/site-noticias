@@ -1,6 +1,6 @@
 # <p align="center"> Site de Noticias 🗞 </p>
 ## Sobre o Site 💻
-Este é um modelo de site de notícias flexível, que pode ser ajustado, configurado e aprimorado para abordar uma ampla variedade de temas 
+Este é um modelo de site de notícias flexível, que pode ser ajustado, configurado e aprimorado para abordar uma ampla variedade de temas.  
 Acesse este site clicando [aqui](https://www.tiagoroglio.com.br/site-noticias "https://www.tiagoroglio.com.br/site-noticias").
 
 ## Visualização do site 👁
