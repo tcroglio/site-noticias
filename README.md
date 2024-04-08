@@ -1,6 +1,6 @@
 <h1 align="center"> Site de Noticias 🗞 </h1>
 <h2> Sobre o Site 💻 </h2>
-<p> Site "molde" de notícias que pode ser ajustado e configurado para falar sobre qualquer assunto. </p> 
+<p> Este é um modelo de site de notícias flexível, que pode ser ajustado, configurado e aprimorado para abordar uma ampla variedade de temas </p> 
 <p> Acesse este site clicando <a href="https://www.tiagoroglio.com.br/site-noticias" target="_blank"> aqui. </a></p>
 
 <h2> Visualização do site 👁 </h2>
