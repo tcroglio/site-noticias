@@ -1,17 +1,18 @@
-# Site de Noticias 🗞
+<p align="center"> # Site de Noticias 🗞 </p>
 
 Site "molde" de notícias  sobre qualquer assunto. 
 
-## Sobre este Site 💻
+<p align="center"> ## Sobre este Site 💻 </p>
 
 Instruções de instalação vão aqui...
 
-## Requisitos de Sistema
+<p align="center"> ## Requisitos de Sistema </p>
 
 - Requisito 1
 - Requisito 2
 
 ## Como Usar
+
 
 Exemplos de uso vão aqui...
 
