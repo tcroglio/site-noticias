@@ -9,19 +9,11 @@
 ![Texto alternativo: Tela inicial do site, obtida ao acessá-lo através do link acima](./assets/readme-img.png)
 
 
-## Como Usar
-
-
+<h2> Tecnologias Utilizadas 🖱️ </h2>
+- HTML5 
+- CSS3
+<p> O método de inserção do código estilizador (CSS) foi realizado através da importação do documento style.css dentro do arquivo index.html, através da meta tag responsável por linkar uma stylesheet. </p>
 Exemplos de uso vão aqui...
 
-## Contribuição
-
-Para contribuir, siga estas etapas...
-
-## Licença
-
-Este projeto é licenciado sob a [Nome da Licença](link para a licença).
-
-## Contato
-
-Para relatar problemas ou fazer perguntas, entre em contato via e-mail: [seu@email.com](mailto:seu@email.com).
+<h2> ✏️ Autores </h2>
+- Tiago da Cunha Roglio
