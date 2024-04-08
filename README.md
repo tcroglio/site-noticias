@@ -1,7 +1,8 @@
 # <p align="center"> Site de Noticias 🗞 </p>
 ## Sobre o Site 💻
 Este é um modelo de site de notícias flexível, que pode ser ajustado, configurado e aprimorado para abordar uma ampla variedade de temas 
-Acesse este site clicando aqui.
+Acesse este site clicando [aqui](https://www.tiagoroglio.com.br/site-noticias)
+.
 
 ## Visualização do site 👁
 Esta é a visualização do site, que pode ser vista ao acessá-lo. Foi criado como parte de um projeto de estudo e aprimoramento das habilidades em HTML e CSS durante a aula de INTRODUÇÃO ao desenvolvimento web. Como era uma matéria introdutória, meu conhecimento em desenvolvimento web ainda estava em estágio inicial. Vale ressaltar que este site não foi desenvolvido com um design responsivo. 
