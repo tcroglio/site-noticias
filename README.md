@@ -1,8 +1,8 @@
-# Nome do Projeto U+1F4F0
+# Site de Noticias 🗞
 
-Descrição breve do projeto.
+Site "molde" de notícias  sobre qualquer assunto. 
 
-## Instalação
+## Sobre este Site 💻
 
 Instruções de instalação vão aqui...
 
