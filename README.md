@@ -15,5 +15,5 @@
 <p> O método de inserção do código estilizador (CSS) foi realizado através da importação do documento style.css dentro do arquivo index.html, através da meta tag responsável por linkar uma stylesheet. </p>
 Exemplos de uso vão aqui...
 
-<h2> ✏️ Autores </h2>
+<h2> Autores ✏️ </h2>
 - Tiago da Cunha Roglio
