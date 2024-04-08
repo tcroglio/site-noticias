@@ -1,4 +1,4 @@
-# Nome do Projeto
+# Nome do Projeto U+1F4F0
 
 Descrição breve do projeto.
 
