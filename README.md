@@ -1,4 +1,4 @@
-# Site de Noticias 🗞 
+<!-- <h1 style="text-align: center;"> Site de Noticias 🗞 </h1> -->
 ## Sobre o Site 💻
 Este é um modelo de site de notícias flexível, que pode ser ajustado, configurado e aprimorado para abordar uma ampla variedade de temas 
 Acesse este site clicando aqui.
