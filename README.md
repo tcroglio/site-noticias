@@ -13,5 +13,5 @@ Esta é a visualização do site, que pode ser vista ao acessá-lo. Foi criado c
 - CSS3  
 O método de inserção do código estilizador (CSS) foi realizado através da importação do documento style.css dentro do arquivo index.html, através da meta tag responsável por linkar uma stylesheet.
 
-## Autores ✏️
+## Autor ✏️
 - Tiago da Cunha Roglio
