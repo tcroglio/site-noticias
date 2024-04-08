@@ -11,7 +11,7 @@ Esta é a visualização do site, que pode ser vista ao acessá-lo. Foi criado c
 ## Tecnologias Utilizadas 🖱️ 
 - HTML5 
 - CSS3  
-O método de inserção do código estilizador (CSS) foi realizado através da importação do documento style.css dentro do arquivo index.html, através da meta tag responsável por linkar uma stylesheet.
+O método de inserção do código estilizador (CSS) foi realizado através da importação do documento `style.css` dentro do arquivo `index.html`, através da meta tag responsável por linkar uma stylesheet.
 
 ## Autor ✏️
 - Tiago da Cunha Roglio
