@@ -1,8 +1,8 @@
-<p align="center"> # Site de Noticias 🗞 </p>
+<h1 align="center"> # Site de Noticias 🗞 </h1>
 
 Site "molde" de notícias  sobre qualquer assunto. 
 
-<p align="center"> ## Sobre este Site 💻 </p>
+<h2 align="center"> ## Sobre este Site 💻 </h2>
 
 Instruções de instalação vão aqui...
 
